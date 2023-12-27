@@ -24,5 +24,5 @@ void rainbowEffect() {
   FastLED.show();
   FastLED.delay(20);  // Adjust the delay to control the speed of the rainbow effect
 
-  hue++;  // Increment the hue for the next iteration
+  hue++;  // Increment the hue for next iteration
 }
